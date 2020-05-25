@@ -2,7 +2,7 @@
 
 Test out the app at: https://yt-embed.netlify.app/
 
-[!image of app]('./src/img/video-player.png')
+![image of app](./src/img/video-player.png)
 
 ## Functionality:
 - Basic video search engine
